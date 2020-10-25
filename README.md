@@ -1,16 +1,13 @@
-### Hi there 👋
+## About me
 
-<!--
-**silencemind/silencemind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###By Day Just a Regular Student, Day-Dreamer 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###By night: A Cyber Security Researcher  Working on ( **Bug Bounty Hunter, CTF player** ) 
+
+###Skills:
+PHP, Python, Javascript, Bash, C/C++, SQL
+Web Applications blackbox/whitebox testing
+
+##Interested in general Hacking, Bug Bounty Hunting, CTF
+
