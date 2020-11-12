@@ -18,7 +18,8 @@ const abidgullshahid = {
         mobileApp: ["Flutter", "react-native"],
         devOps: ["Heroku", "GCP", "Azure", "Netlify", "AWS", "Docker🐳", "Travis", "GitHub Actions"],
         databases: ["PostgreSQL", "mongo", "MySql", "sqlite"],
-        misc: ["Qt", "Firebase", "GraphQl"]
+        misc: ["Qt", "Firebase", "GraphQl"],
+        HOF: ["Microsoft", "BlackBerry", "Docker", "Nokia", "Splitwise", "ESET", "JET", "SONY", "Topicus", "ALCHEMY" ]
     },
     architecture: ["Multi-Tenant Applications", "Mirco-Services", "JAM Stack", "PWA", "SPA"],
     contact: ["akmarwat9997 at gmail.com"]
