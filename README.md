@@ -33,7 +33,7 @@ const abidgullshahid = {
 
 <a href="https://sourcerer.io/silencemind"><img src="https://sourcerer.io/icons/logo-sharing.svg"></a>
 
-[![Abid's github stats] (https://github-readme-stats.vercel.app/api?username=silencemind&show_icons=true&theme=radical)
+[![Abid's github stats](https://github-readme-stats.vercel.app/api?username=silencemind&show_icons=true&theme=radical)
 
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
