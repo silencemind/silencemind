@@ -35,35 +35,5 @@ const abidgullshahid = {
 
 [![Abid's github stats](https://github-readme-stats.vercel.app/api?username=silencemind&show_icons=true&theme=radical)
 
-<!--START_SECTION:waka-->
-**🐱 My Github Data** 
 
-> 🏆 77 Contributions in the Year 2020
- > 
-> 📦 1.1 MB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 44 Public Repositories
- > 
-> 🔑 1 Private Repositories 
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.54% 
-🌆 Daytime    156 commits    ██████░░░░░░░░░░░░░░░░░░░   24.84% 
-🌃 Evening    197 commits    ███████░░░░░░░░░░░░░░░░░░   31.37% 
-🌙 Night      190 commits    ███████░░░░░░░░░░░░░░░░░░   30.25%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-```
-
-
-<!--END_SECTION:waka-->
 
