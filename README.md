@@ -29,6 +29,7 @@ const abidgullshahid = {
 <a href="https://sourcerer.io/silencemind"><img src="https://img.shields.io/badge/Python-351%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/silencemind"><img src="https://img.shields.io/badge/JavaScript-145%20commits-orange.svg" alt=""></a>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=silencemind)](https://git.io/streak-stats)
 
 
 <a href="https://sourcerer.io/silencemind"><img src="https://sourcerer.io/icons/logo-sharing.svg"></a>
