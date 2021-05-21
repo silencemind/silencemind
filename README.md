@@ -1,40 +1,27 @@
-Assalam-u-Alekum (Peace be upon you), Hello I'm Abid Gull Shahid
-```javascript
-const abidgullshahid = {
-    code: ["PHP","Python", "C/C++", "Javascript", "Go"],
-    askMeAbout: ["Bug Hunting","Web Security","AI", "Machine Learning", "Deep Learning", "NLP", "Web Dev"],
-    technologies: {
-        deepLearning: ["Tensorflow", "Keras"],
-        machineLearning: ["sciket", "pandas", "numpy", "scipy", "spacy", "Ocatve", "Jupyter"],
-        backEnd: {
-            python: ["Django", "Flask", "Fast-API"],
-            js: ["node", "express"]
-            
-        },
-        frontEnd: {
-            js: ["React", "Gatsby"],
-            
-        },
-        mobileApp: ["Flutter", "react-native"],
-        devOps: ["Heroku", "GCP", "Azure", "Netlify", "AWS", "Docker🐳", "Travis", "GitHub Actions"],
-        databases: ["PostgreSQL", "mongo", "MySql", "sqlite"],
-        misc: ["Qt", "Firebase", "GraphQl"],
-        HOF: ["Microsoft", "BlackBerry", "Docker", "Nokia", "Splitwise", "ESET", "JET", "SONY", "Topicus", "ALCHEMY" ]
-    },
-    architecture: ["Multi-Tenant Applications", "Mirco-Services", "JAM Stack", "PWA", "SPA"],
-    contact: ["akmarwat9997 at gmail.com"]
-};
-```
+**Assalam-u-Alekum (Peace be upon you), Hello I'm Abid Gull Shahid**
 
-<a href="https://sourcerer.io/silencemind"><img src="https://img.shields.io/badge/Python-351%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/silencemind"><img src="https://img.shields.io/badge/JavaScript-145%20commits-orange.svg" alt=""></a>
+## About Me
+I am a Security Software Engineer working mostly on breaking and fixing things online. I am a good guy whenever I break things online.
+
+> By Day Just a Normal Student 
+
+
+> By Night Just a Normal Cyber Security Engineer
+
+
+
+### Field of Interest
+Cyber Security, Web Development, Machine Learning, BlockChain, Exploit Development.
+
+
+
+
+[![Abid's github stats](https://github-readme-stats.vercel.app/api?username=silencemind&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=silencemind)](https://git.io/streak-stats)
 
 
-<a href="https://sourcerer.io/silencemind"><img src="https://sourcerer.io/icons/logo-sharing.svg"></a>
 
-[![Abid's github stats](https://github-readme-stats.vercel.app/api?username=silencemind&show_icons=true&theme=radical)
 
 
 
