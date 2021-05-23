@@ -1,8 +1,23 @@
-**Assalam-u-Alekum (Peace be upon you), Hello I'm Abid Gull Shahid**
+**Assalam-u-Alekum (Peace be upon you)**
 
 <h2><img src="https://thumbs.gfycat.com/AcrobaticMatureGazelle.webp" alt="computer" width="80"> About me </h2>
-I am a Security Software Engineer working mostly on breaking and fixing things online. I am a good guy whenever I break things online.
 
+<div >
+
+<ul>
+  <li><b>👤 Name: </b> Abid Gul Shahid</li>
+  <li><b>😄 Pronouns:</b>  He/Him</li>
+  <li><b>📍 Location:</b> Peshawar Pakistan 🇵🇰 </li>
+  <li><b>💼 Job: </b>Hackersray @ <a href="hackersray.com">Hackersray</a></li>
+  <li><b>📣 Languages:</b> English & Urdu</li>
+</ul>
+
+  <p>I'm <b>Abid Gull</b>  a security software engineer  diving into the world of cyber security. I'm a Penetration Tester at the Hackersray, 
+  where I find vulnerabilities in their products and help them to fix those vulnerabilities. I'm passionate about building things, breaking things 😜, love to code.
+</p>
+
+</div>
+ 
 
 
 ### Field of Interests
