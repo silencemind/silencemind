@@ -19,7 +19,7 @@
 </div>
  
 
-
+    
 
 <h2><img src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" alt="computer" width="80"> I'm currently ...</h2>
 
