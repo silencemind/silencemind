@@ -23,7 +23,7 @@
 
 <h2><img src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" alt="computer" width="80"> I'm currently ...</h2>
 
-- 🔭 coding automation projects & relaunching my personal website.
+- 🔭 Coding automation projects & relaunching my personal website.
 - 🌱 learning React.js, Django, Machine Learning
 - 📚 Reading: **"Rich Dad Poor Dad"**
 - 🎮 playing PUBG ⚔, Chess ♟ 
