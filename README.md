@@ -37,6 +37,7 @@ Cyber Security, Web Development, Machine Learning, BlockChain, Exploit Developme
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=silencemind)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silencemind&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
   
 
