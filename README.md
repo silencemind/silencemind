@@ -39,7 +39,8 @@ Cyber Security, Web Development, Machine Learning, BlockChain, Exploit Developme
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silencemind&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-  
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=silencemind)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
