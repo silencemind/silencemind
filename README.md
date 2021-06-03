@@ -2,7 +2,7 @@
 
 <h2><img src="https://thumbs.gfycat.com/AcrobaticMatureGazelle.webp" alt="computer" width="80"> About me </h2>
 
-<div >
+<div>  
                             
 <ul>
   <li><b>👤 Name: </b> Abid Gul Shahid</li>
@@ -33,13 +33,9 @@ Cyber Security, Web Development, Machine Learning, BlockChain, Exploit Developme
 
 
 
-[![Abid's github stats](https://github-readme-stats.vercel.app/api?username=silencemind&show_icons=true&theme=radical)
+[![Abid's github stats](https://github-readme-stats.vercel.app/api?username=silencemind&show_icons=true&theme=radical) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=silencemind)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=silencemind)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silencemind&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=silencemind)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silencemind&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=silencemind)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
