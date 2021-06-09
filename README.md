@@ -3,7 +3,7 @@
 <h2><img src="https://thumbs.gfycat.com/AcrobaticMatureGazelle.webp" alt="computer" width="80"> About me </h2>
     
 <div>  
-                            
+                                
 <ul>
   <li><b>👤 Name: </b> Abid Gul Shahid</li>
   <li><b>😄 Pronouns:</b>  He/Him</li>
