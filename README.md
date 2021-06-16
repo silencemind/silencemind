@@ -27,7 +27,7 @@
 - 🌱 learning React.js, Django, Machine Learning
 - 📚 Reading: **"Rich Dad Poor Dad"**
 - 🎮 playing PUBG ⚔, Chess ♟ 
- The 
+ 
 ### Field of Interests
 Cyber Security, Web Development, Machine Learning, BlockChain, Exploit Development.
 
