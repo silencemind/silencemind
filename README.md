@@ -2,7 +2,7 @@
 
 <h2><img src="https://thumbs.gfycat.com/AcrobaticMatureGazelle.webp" alt="computer" width="80"> About me </h2>
     
-<div>   
+<div>     
                                 
 <ul>
   <li><b>👤 Name: </b> Abid Gul Shahid</li>
